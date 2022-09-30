@@ -9,3 +9,4 @@ gensim
 transformers
 pytorch
 unidecode
+sentence-transformers
